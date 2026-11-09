@@ -1,0 +1,10 @@
+Com,Name,FDR,log2(fold change)(Co.To RS+ vs Co.Mt RS+),type
+Com_6552_neg,N-Acetyl-1-aspartylglutamic acid,6.51303169918424e-07,4.72191842441386,from_Co.To_to_Co.Mt
+Com_3881_pos,Methionine sulfoxide,6.47219175466514e-06,3.00063265730618,from_Co.To_to_Co.Mt
+Com_253_neg,Zeranol,3.98204572019209e-06,2.29835334883693,from_Co.To_to_Co.Mt
+Com_158_pos,Betaine,1.45137002910768e-06,2.01048187979291,from_Co.To_to_Co.Mt
+Com_596_neg,Mevalonic acid,8.39188349915094e-06,1.39141035056976,from_Co.To_to_Co.Mt
+Com_8975_neg,2-Methylbutyl beta-D-glucopyranoside,4.5381693036853e-06,1.20470006379773,from_Co.To_to_Co.Mt
+Com_1994_neg,Deoxyribose 5-Phosphate,2.73337331511513e-06,0.758856776424272,from_Co.To_to_Co.Mt
+Com_2065_pos,6-Hydroxynicotinic acid,1.05254108350086e-05,0.646772042535683,from_Co.To_to_Co.Mt
+Com_719_pos,Nicotinic acid,1.77984345088196e-05,0.478358171959509,from_Co.To_to_Co.Mt
